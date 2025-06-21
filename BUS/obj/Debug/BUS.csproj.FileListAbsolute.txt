@@ -1,0 +1,52 @@
+E:\DACN\LKMT\BUS\bin\Debug\BUS.dll.config
+E:\DACN\LKMT\BUS\bin\Debug\BUS.dll
+E:\DACN\LKMT\BUS\bin\Debug\BUS.pdb
+E:\DACN\LKMT\BUS\bin\Debug\DAO.dll
+E:\DACN\LKMT\BUS\bin\Debug\EntityFramework.dll
+E:\DACN\LKMT\BUS\bin\Debug\DAO.pdb
+E:\DACN\LKMT\BUS\bin\Debug\DAO.dll.config
+E:\DACN\LKMT\BUS\bin\Debug\EntityFramework.xml
+E:\DACN\LKMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\DACN\LKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\DACN\LKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\DACN\LKMT\BUS\obj\Debug\BUS.dll
+E:\DACN\LKMT\BUS\obj\Debug\BUS.pdb
+E:\LVTN\LKMT\BUS\bin\Debug\BUS.dll.config
+E:\LVTN\LKMT\BUS\bin\Debug\BUS.dll
+E:\LVTN\LKMT\BUS\bin\Debug\BUS.pdb
+E:\LVTN\LKMT\BUS\bin\Debug\DAO.dll
+E:\LVTN\LKMT\BUS\bin\Debug\EntityFramework.dll
+E:\LVTN\LKMT\BUS\bin\Debug\DAO.pdb
+E:\LVTN\LKMT\BUS\bin\Debug\DAO.dll.config
+E:\LVTN\LKMT\BUS\bin\Debug\EntityFramework.xml
+E:\LVTN\LKMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\LVTN\LKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\LVTN\LKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\LVTN\LKMT\BUS\obj\Debug\BUS.dll
+E:\LVTN\LKMT\BUS\obj\Debug\BUS.pdb
+E:\LKMT\BUS\bin\Debug\BUS.dll
+E:\LKMT\BUS\bin\Debug\BUS.pdb
+E:\LKMT\BUS\bin\Debug\DAO.dll
+E:\LKMT\BUS\bin\Debug\EntityFramework.dll
+E:\LKMT\BUS\bin\Debug\DAO.pdb
+E:\LKMT\BUS\bin\Debug\DAO.dll.config
+E:\LKMT\BUS\bin\Debug\EntityFramework.xml
+E:\LKMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\LKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\LKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\LKMT\BUS\obj\Debug\BUS.dll
+E:\LKMT\BUS\obj\Debug\BUS.pdb
+E:\LKMT\BUS\bin\Debug\BUS.dll.config
+D:\XU LY\LKMT\BUS\bin\Debug\BUS.dll.config
+D:\XU LY\LKMT\BUS\bin\Debug\BUS.dll
+D:\XU LY\LKMT\BUS\bin\Debug\BUS.pdb
+D:\XU LY\LKMT\BUS\bin\Debug\DAO.dll
+D:\XU LY\LKMT\BUS\bin\Debug\EntityFramework.dll
+D:\XU LY\LKMT\BUS\bin\Debug\DAO.pdb
+D:\XU LY\LKMT\BUS\bin\Debug\DAO.dll.config
+D:\XU LY\LKMT\BUS\bin\Debug\EntityFramework.xml
+D:\XU LY\LKMT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\XU LY\LKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\XU LY\LKMT\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\XU LY\LKMT\BUS\obj\Debug\BUS.dll
+D:\XU LY\LKMT\BUS\obj\Debug\BUS.pdb

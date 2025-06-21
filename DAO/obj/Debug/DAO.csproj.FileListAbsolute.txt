@@ -1,0 +1,48 @@
+E:\DACN\LKMT\DAO\bin\Debug\DAO.dll.config
+E:\DACN\LKMT\DAO\bin\Debug\DAO.dll
+E:\DACN\LKMT\DAO\bin\Debug\DAO.pdb
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.dll
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.xml
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\DACN\LKMT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DACN\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\DACN\LKMT\DAO\obj\Debug\DAO.dll
+E:\DACN\LKMT\DAO\obj\Debug\DAO.pdb
+E:\DACN\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\LVTN\LKMT\DAO\bin\Debug\DAO.dll.config
+E:\LVTN\LKMT\DAO\bin\Debug\DAO.dll
+E:\LVTN\LKMT\DAO\bin\Debug\DAO.pdb
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.dll
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.xml
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.dll
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.pdb
+E:\LKMT\DAO\bin\Debug\DAO.dll.config
+E:\LKMT\DAO\bin\Debug\DAO.dll
+E:\LKMT\DAO\bin\Debug\DAO.pdb
+E:\LKMT\DAO\bin\Debug\EntityFramework.dll
+E:\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\LKMT\DAO\bin\Debug\EntityFramework.xml
+E:\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\LKMT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\LKMT\DAO\obj\Debug\DAO.dll
+E:\LKMT\DAO\obj\Debug\DAO.pdb
+D:\XU LY\LKMT\DAO\bin\Debug\DAO.dll.config
+D:\XU LY\LKMT\DAO\bin\Debug\DAO.dll
+D:\XU LY\LKMT\DAO\bin\Debug\DAO.pdb
+D:\XU LY\LKMT\DAO\bin\Debug\EntityFramework.dll
+D:\XU LY\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\XU LY\LKMT\DAO\bin\Debug\EntityFramework.xml
+D:\XU LY\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\XU LY\LKMT\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\XU LY\LKMT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\XU LY\LKMT\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\XU LY\LKMT\DAO\obj\Debug\DAO.dll
+D:\XU LY\LKMT\DAO\obj\Debug\DAO.pdb

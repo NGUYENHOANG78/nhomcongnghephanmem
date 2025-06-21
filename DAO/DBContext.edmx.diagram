@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5531e36359f343c9a73e91d99d4ea4aa" Name="Diagram1">
+        <EntityTypeShape EntityType="LKMTModel.admin" Width="1.5" PointX="9.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.chitietdonhang" Width="1.5" PointX="7.5" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.donhang" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.giohang" Width="1.5" PointX="7.5" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.khachhang" Width="1.5" PointX="3" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.loaisanpham" Width="1.5" PointX="3" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.nhomsanpham" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.phieugiaohang" Width="1.5" PointX="7.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.phieunhap" Width="1.5" PointX="7.5" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.phieuxuat" Width="1.5" PointX="7.5" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.phuongthucthanhtoan" Width="1.5" PointX="3" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.sanpham" Width="1.5" PointX="5.25" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.sysdiagram" Width="1.5" PointX="9.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LKMTModel.thuonghieu" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <AssociationConnector Association="LKMTModel.FK_chitietdonhang_donhang" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_chitietdonhang_sanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_donhang_khachhang" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_donhang_phuongthucthanhtoan" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_phieugiaohang_donhang" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_giohang_sanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_loaisanpham_nhomsanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_sanpham_loaisanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_thuonghieu_nhomsanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_phieunhap_sanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_phieuxuat_sanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="LKMTModel.FK_sanpham_thuonghieu" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

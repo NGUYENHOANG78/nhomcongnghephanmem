@@ -1,0 +1,135 @@
+E:\LVTN\LKMT\LKMT\bin\Debug\LKMT.exe.config
+E:\LVTN\LKMT\LKMT\bin\Debug\LKMT.exe
+E:\LVTN\LKMT\LKMT\bin\Debug\LKMT.pdb
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.csprojAssemblyReference.cache
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.Properties.Resources.resources
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.csproj.GenerateResource.cache
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.csproj.CoreCompileInputs.cache
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.exe
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.pdb
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\bin\Debug\LKMT.exe.config
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\bin\Debug\LKMT.exe
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\bin\Debug\LKMT.pdb
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.Properties.Resources.resources
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.csproj.GenerateResource.cache
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.csproj.CoreCompileInputs.cache
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.exe
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.pdb
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.GUI.LoginForm.resources
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\bin\Debug\EntityFramework.dll
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.dll
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\bin\Debug\EntityFramework.xml
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.xml
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.csproj.CopyComplete
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.GUI.ManagerForm.resources
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.GUI.fSanPham.resources
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.csprojAssemblyReference.cache
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.GUI.fLoaiSP.resources
+E:\LKMT\LinhKienMayTinh\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhomSP.resources
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.GUI.fLoaiSP.resources
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhomSP.resources
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.GUI.fSanPham.resources
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.GUI.LoginForm.resources
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.GUI.ManagerForm.resources
+E:\LVTN\LKMT\LKMT\bin\Debug\EntityFramework.dll
+E:\LVTN\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.dll
+E:\LVTN\LKMT\LKMT\bin\Debug\EntityFramework.xml
+E:\LVTN\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.xml
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.csproj.CopyComplete
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.csprojAssemblyReference.cache
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.fLoaiSP.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhomSP.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.fSanPham.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.LoginForm.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.ManagerForm.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.Properties.Resources.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.csproj.GenerateResource.cache
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.csproj.CoreCompileInputs.cache
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.exe
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.pdb
+E:\DACN\LKMT\LKMT\bin\Debug\LKMT.exe.config
+E:\DACN\LKMT\LKMT\bin\Debug\LKMT.exe
+E:\DACN\LKMT\LKMT\bin\Debug\LKMT.pdb
+E:\DACN\LKMT\LKMT\bin\Debug\EntityFramework.dll
+E:\DACN\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.dll
+E:\DACN\LKMT\LKMT\bin\Debug\EntityFramework.xml
+E:\DACN\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.xml
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.csproj.CopyComplete
+E:\DACN\LKMT\LKMT\bin\Debug\BUS.dll
+E:\DACN\LKMT\LKMT\bin\Debug\DAO.dll
+E:\DACN\LKMT\LKMT\bin\Debug\BUS.pdb
+E:\DACN\LKMT\LKMT\bin\Debug\BUS.dll.config
+E:\DACN\LKMT\LKMT\bin\Debug\DAO.pdb
+E:\DACN\LKMT\LKMT\bin\Debug\DAO.dll.config
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.fThuongHieu.resources
+E:\LVTN\LKMT\LKMT\bin\Debug\BUS.dll
+E:\LVTN\LKMT\LKMT\bin\Debug\DAO.dll
+E:\LVTN\LKMT\LKMT\bin\Debug\BUS.pdb
+E:\LVTN\LKMT\LKMT\bin\Debug\BUS.dll.config
+E:\LVTN\LKMT\LKMT\bin\Debug\DAO.pdb
+E:\LVTN\LKMT\LKMT\bin\Debug\DAO.dll.config
+E:\LVTN\LKMT\LKMT\obj\Debug\LKMT.GUI.fThuongHieu.resources
+E:\LKMT\LKMT\bin\Debug\LKMT.exe.config
+E:\LKMT\LKMT\bin\Debug\LKMT.exe
+E:\LKMT\LKMT\bin\Debug\LKMT.pdb
+E:\LKMT\LKMT\bin\Debug\BUS.dll
+E:\LKMT\LKMT\bin\Debug\EntityFramework.dll
+E:\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.dll
+E:\LKMT\LKMT\bin\Debug\DAO.dll
+E:\LKMT\LKMT\bin\Debug\BUS.pdb
+E:\LKMT\LKMT\bin\Debug\BUS.dll.config
+E:\LKMT\LKMT\bin\Debug\EntityFramework.xml
+E:\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.xml
+E:\LKMT\LKMT\bin\Debug\DAO.pdb
+E:\LKMT\LKMT\bin\Debug\DAO.dll.config
+E:\LKMT\LKMT\obj\Debug\LKMT.csprojAssemblyReference.cache
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fLoaiSP.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhomSP.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fSanPham.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fThuongHieu.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.LoginForm.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.ManagerForm.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.Properties.Resources.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.csproj.GenerateResource.cache
+E:\LKMT\LKMT\obj\Debug\LKMT.csproj.CoreCompileInputs.cache
+E:\LKMT\LKMT\obj\Debug\LKMT.csproj.CopyComplete
+E:\LKMT\LKMT\obj\Debug\LKMT.exe
+E:\LKMT\LKMT\obj\Debug\LKMT.pdb
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhapKho.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fXuatKho.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fThanhToan.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fDonHang.resources
+E:\LKMT\LKMT\obj\Debug\LKMT.GUI.fKhachHang.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.fKhachHang.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhapKho.resources
+E:\DACN\LKMT\LKMT\obj\Debug\LKMT.GUI.fThanhToan.resources
+D:\XU LY\LKMT\LKMT\bin\Debug\LKMT.exe.config
+D:\XU LY\LKMT\LKMT\bin\Debug\LKMT.exe
+D:\XU LY\LKMT\LKMT\bin\Debug\LKMT.pdb
+D:\XU LY\LKMT\LKMT\bin\Debug\BUS.dll
+D:\XU LY\LKMT\LKMT\bin\Debug\EntityFramework.dll
+D:\XU LY\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.dll
+D:\XU LY\LKMT\LKMT\bin\Debug\DAO.dll
+D:\XU LY\LKMT\LKMT\bin\Debug\BUS.pdb
+D:\XU LY\LKMT\LKMT\bin\Debug\BUS.dll.config
+D:\XU LY\LKMT\LKMT\bin\Debug\EntityFramework.xml
+D:\XU LY\LKMT\LKMT\bin\Debug\EntityFramework.SqlServer.xml
+D:\XU LY\LKMT\LKMT\bin\Debug\DAO.pdb
+D:\XU LY\LKMT\LKMT\bin\Debug\DAO.dll.config
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.csproj.AssemblyReference.cache
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.exe.config
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.fKhachHang.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.fLoaiSP.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhapKho.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhomSP.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.fSanPham.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.fThanhToan.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.fThuongHieu.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.LoginForm.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.GUI.ManagerForm.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.Properties.Resources.resources
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.csproj.GenerateResource.cache
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.csproj.CoreCompileInputs.cache
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.csproj.Up2Date
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.exe
+D:\XU LY\LKMT\LKMT\obj\Debug\LKMT.pdb
