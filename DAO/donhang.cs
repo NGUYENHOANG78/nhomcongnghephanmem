@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DAO
+/*namespace DAO
 {
     using System;
     using System.Collections.Generic;
@@ -35,4 +35,4 @@ namespace DAO
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<phieugiaohang> phieugiaohangs { get; set; }
     }
-}
+}*/
