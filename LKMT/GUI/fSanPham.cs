@@ -19,17 +19,17 @@ namespace LKMT.GUI
         {
             InitializeComponent();
             SanPhamBUS.Instance.showSanPham(dgvSanPham);
-            dgvSanPham.Columns[0].HeaderText = "Mã linh kiện";
-            dgvSanPham.Columns[1].HeaderText = "Tên linh kiện";
-            dgvSanPham.Columns[2].HeaderText = "Giá";
-            dgvSanPham.Columns[3].HeaderText = "Mã thương hiệu";
-            dgvSanPham.Columns[4].HeaderText = "Mã loại";
-            dgvSanPham.Columns[5].HeaderText = "Khuyến mãi";
-            dgvSanPham.Columns[6].HeaderText = "Bảo hành";
-            dgvSanPham.Columns[7].HeaderText = "Hình";
-            dgvSanPham.Columns[8].HeaderText = "Ngày tạo";
-            dgvSanPham.Columns[9].HeaderText = "Ngày cập nhật";
-            dgvSanPham.Columns[10].HeaderText = "Mô tả";
+            dgvSanPham.Columns[0].HeaderText = "Ma linh kien";
+            dgvSanPham.Columns[1].HeaderText = "Ten linh kien";
+            dgvSanPham.Columns[2].HeaderText = "Gia";
+            dgvSanPham.Columns[3].HeaderText = "Ma thuong hieu";
+            dgvSanPham.Columns[4].HeaderText = "Ma loai";
+            dgvSanPham.Columns[5].HeaderText = "Khuyen mai";
+            dgvSanPham.Columns[6].HeaderText = "Bao hanh";
+            dgvSanPham.Columns[7].HeaderText = "Hinh";
+            dgvSanPham.Columns[8].HeaderText = "Ngay tao";
+            dgvSanPham.Columns[9].HeaderText = "Ngay cap nhat";
+            dgvSanPham.Columns[10].HeaderText = "Mo ta";
 
 
             dgvSanPham.Columns[0].Width = 60;
@@ -133,23 +133,23 @@ namespace LKMT.GUI
         {
             if (txtMaLinhKien.TextLength > 10)
             {
-                MessageBox.Show("Mã không được vượt quá 10 ký tự!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Ma khong duoc vuot qua 10 ky tu!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else if (txtTenLinhKien.TextLength == 0)
-                MessageBox.Show("Tên không được bỏ trống!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Ten khong duoc bo trong!!", "Thong Bao", MessageBoxButtons.OK);
             else if (txtGia.TextLength == 0)
-                MessageBox.Show("Giá không được bỏ trống!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Gia khong duoc bo trong!!", "Thong Bao", MessageBoxButtons.OK);
             else if (cboLoaiLK.Text.Length == 0)
-                MessageBox.Show("Loại linh kiện không được bỏ trống!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Loai linh kien khong duoc bo trong!!", "Thong Bao", MessageBoxButtons.OK);
             else if (cboThuongHieu.Text.Length == 0)
-                MessageBox.Show("Thương hiệu không được bỏ trống!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Thuong hieu khong duoc bo trong!!", "Thong Bao", MessageBoxButtons.OK);
             else if (path == null)
-                MessageBox.Show("Chọn hình cho linh kiện!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Chon hinh cho linh kien!!", "Thong Bao", MessageBoxButtons.OK);
             else
             {
                 if (SanPhamBUS.Instance.themSanPham(txtTenLinhKien.Text, cboLoaiLK, decimal.Parse(txtGia.Text), cboThuongHieu, (int)nmrBaoHanh.Value, (int)nmrKhuyenMai.Value, lbPath.Text, richMoTa.Text))
                 {
-                    MessageBox.Show("Thêm linh kiện thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Them linh kien thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     SanPhamBUS.Instance.showSanPham(dgvSanPham);
                     if(SanPhamBUS.Instance.isExistImage(lbPath.Text) == false)
                     {
@@ -158,7 +158,7 @@ namespace LKMT.GUI
                     path = null;
                     btnLamMoi_Click(sender, e);
                 }
-                else MessageBox.Show("Thêm linh kiện thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Them linh kien that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
 
@@ -169,7 +169,7 @@ namespace LKMT.GUI
             {
                 if (SanPhamBUS.Instance.suaSanPham(txtMaLinhKien.Text, txtTenLinhKien.Text, cboLoaiLK, decimal.Parse(txtGia.Text), cboThuongHieu, (int)nmrBaoHanh.Value, (int)nmrKhuyenMai.Value, lbPath.Text, richMoTa.Text, DateTime.Parse(txtNgayTao.Text)))
                 {
-                    MessageBox.Show("Cập nhật thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Cap nhat thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     SanPhamBUS.Instance.showSanPham(dgvSanPham);
                     if (path != null)
                     {
@@ -180,22 +180,22 @@ namespace LKMT.GUI
                     }
                     btnLamMoi_Click(sender, e);
                 }
-                else MessageBox.Show("Cập nhật thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Cap nhat that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else
             {
-                MessageBox.Show("Vui lòng chọn linh kiện muốn cập nhật!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Vui long chon linh kien muon cap nhat!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
         private void btnXoa_Click(object sender, EventArgs e)
         {
             if (SanPhamBUS.Instance.xoaNhomSP(txtMaLinhKien.Text))
             {
-                MessageBox.Show("Xóa linh kiện thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Xoa linh kien thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                 SanPhamBUS.Instance.showSanPham(dgvSanPham);
                 btnLamMoi_Click(sender, e);
             }
-            else MessageBox.Show("Xóa linh kiện thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+            else MessageBox.Show("Xoa linh kien that bai!!", "Thong Bao", MessageBoxButtons.OK);
         }
 
         private void btnLamMoi_Click(object sender, EventArgs e)
