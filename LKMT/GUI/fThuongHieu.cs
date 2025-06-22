@@ -16,11 +16,11 @@ namespace LKMT.GUI
         {
             InitializeComponent();
             ThuongHieuBUS.Instance.showListThuongHieu(dgvThuongHieu);
-            dgvThuongHieu.Columns[0].HeaderText = "Mã thương hiệu";
-            dgvThuongHieu.Columns[1].HeaderText = "Tên thương hiệu";
-            dgvThuongHieu.Columns[2].HeaderText = "ID nhóm";
-            dgvThuongHieu.Columns[3].HeaderText = "Ngày tạo";
-            dgvThuongHieu.Columns[4].HeaderText = "Ngày cập nhật";
+            dgvThuongHieu.Columns[0].HeaderText = "Ma thuong hieu";
+            dgvThuongHieu.Columns[1].HeaderText = "Ten thuong hieu";
+            dgvThuongHieu.Columns[2].HeaderText = "ID nhom";
+            dgvThuongHieu.Columns[3].HeaderText = "Ngay tao";
+            dgvThuongHieu.Columns[4].HeaderText = "Ngay cap nhat";
             dgvThuongHieu.Columns[0].Width = 50;
             dgvThuongHieu.Columns[1].Width = 170;
             dgvThuongHieu.Columns[2].Width = 100;
@@ -58,15 +58,15 @@ namespace LKMT.GUI
         {
           
             if (txtTenThuongHieu.TextLength == 0)
-                MessageBox.Show("Tên không được bỏ trống!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Ten khong duoc bo trong!!", "Thong Bao", MessageBoxButtons.OK);
             else
             {
                 if (ThuongHieuBUS.Instance.themThuongHieu(txtMaTH.Text,txtTenThuongHieu.Text, cboNhomLK))
                 {
-                    MessageBox.Show("Thêm thương hiệu thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Them thuong hieu thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     ThuongHieuBUS.Instance.showListThuongHieu(dgvThuongHieu, cboNhomLK);
                 }
-                else MessageBox.Show("Thêm thương hiệu thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Them thuong hieu that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
 
@@ -77,14 +77,14 @@ namespace LKMT.GUI
             {
                 if (ThuongHieuBUS.Instance.suaThuongHieu(int.Parse(txtMaTH.Text), txtTenThuongHieu.Text, cboNhomLK, DateTime.Parse(txtNgayTao.Text)))
                 {
-                    MessageBox.Show("Cập nhật thương hiệu thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Cap nhat thuong hieu thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     ThuongHieuBUS.Instance.showListThuongHieu(dgvThuongHieu, cboNhomLK);
                 }
-                else MessageBox.Show("Cập nhật thương hiệu thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Cap nhat thuong hieu that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else
             {
-                MessageBox.Show("Vui lòng chọn thương hiệu muốn cập nhật!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Vui long chon thuong hieu muon cap nhat!!", "Thong Bao", MessageBoxButtons.OK);
             }         
         }
 
@@ -95,14 +95,14 @@ namespace LKMT.GUI
             {
                 if (ThuongHieuBUS.Instance.xoaThuongHieu(int.Parse(txtMaTH.Text)))
                 {
-                    MessageBox.Show("Xóa thương hiệu thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Xoa thuong hieu thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     ThuongHieuBUS.Instance.showListThuongHieu(dgvThuongHieu, cboNhomLK);
                 }
-                else MessageBox.Show("Xóa thương hiệu thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Xoa thuong hieu that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else
             {
-                MessageBox.Show("Vui lòng chọn thương hiệu muốn cập nhật!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Vui long chon thuong hieu muon cap nhat!!", "Thong Bao", MessageBoxButtons.OK);
             }
            
         }
