@@ -61,7 +61,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(416, 39);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Thông tin nhóm linh kiện";
+            this.label2.Text = "Thong tin nhom linh kien";
             // 
             // b
             // 
@@ -70,7 +70,7 @@
             this.b.Name = "b";
             this.b.Size = new System.Drawing.Size(58, 13);
             this.b.TabIndex = 4;
-            this.b.Text = "Tên nhóm:";
+            this.b.Text = "Ten nhom:";
             this.b.Click += new System.EventHandler(this.b_Click);
             // 
             // txtID
@@ -95,7 +95,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 7;
-            this.btnThem.Text = "Thêm";
+            this.btnThem.Text = "Them";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
@@ -105,7 +105,7 @@
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 8;
-            this.btnSua.Text = "Sửa";
+            this.btnSua.Text = "Sua";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
@@ -115,7 +115,7 @@
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 9;
-            this.btnXoa.Text = "Xóa";
+            this.btnXoa.Text = "Xoa";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
@@ -130,7 +130,7 @@
             this.groupBox1.Size = new System.Drawing.Size(265, 56);
             this.groupBox1.TabIndex = 10;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tác vụ";
+            this.groupBox1.Text = "Tac vu";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // dgvNhomSP
@@ -159,7 +159,7 @@
             this.ddd.Name = "ddd";
             this.ddd.Size = new System.Drawing.Size(53, 13);
             this.ddd.TabIndex = 12;
-            this.ddd.Text = "Ngày tạo:";
+            this.ddd.Text = "Ngay tao:";
             this.ddd.Click += new System.EventHandler(this.ddd_Click);
             // 
             // txtNgayCapNhat
@@ -178,7 +178,7 @@
             this.aaa.Name = "aaa";
             this.aaa.Size = new System.Drawing.Size(98, 13);
             this.aaa.TabIndex = 14;
-            this.aaa.Text = "Cập nhật gần nhất:";
+            this.aaa.Text = "Cap nhat gan nhat:";
             this.aaa.Click += new System.EventHandler(this.aaa_Click);
             // 
             // btnLamMoi
@@ -187,7 +187,7 @@
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.Size = new System.Drawing.Size(75, 23);
             this.btnLamMoi.TabIndex = 16;
-            this.btnLamMoi.Text = "Làm mới";
+            this.btnLamMoi.Text = "Lam moi";
             this.btnLamMoi.UseVisualStyleBackColor = true;
             this.btnLamMoi.Click += new System.EventHandler(this.btnLamMoi_Click);
             // 
@@ -198,7 +198,7 @@
             this.a.Name = "a";
             this.a.Size = new System.Drawing.Size(54, 13);
             this.a.TabIndex = 3;
-            this.a.Text = "Mã nhóm:";
+            this.a.Text = "Ma nhom:";
             this.a.Click += new System.EventHandler(this.a_Click);
             // 
             // groupBox2
@@ -218,7 +218,7 @@
             this.groupBox2.Size = new System.Drawing.Size(335, 213);
             this.groupBox2.TabIndex = 17;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Thông tin nhóm linh kiện";
+            this.groupBox2.Text = "Thong tin nhom linh kien";
             // 
             // groupBox3
             // 
@@ -228,7 +228,7 @@
             this.groupBox3.Size = new System.Drawing.Size(564, 410);
             this.groupBox3.TabIndex = 18;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Danh sách nhóm linh kiện";
+            this.groupBox3.Text = "Danh sach nhom linh kien";
             // 
             // label4
             // 
