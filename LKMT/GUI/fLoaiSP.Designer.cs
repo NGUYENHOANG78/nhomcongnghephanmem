@@ -63,7 +63,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(383, 39);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Thông tin loại linh kiện";
+            this.label2.Text = "thong tin loại linh kien";
             // 
             // btnLamMoi
             // 
@@ -71,7 +71,7 @@
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.Size = new System.Drawing.Size(75, 23);
             this.btnLamMoi.TabIndex = 27;
-            this.btnLamMoi.Text = "Làm mới";
+            this.btnLamMoi.Text = "Lam moi";
             this.btnLamMoi.UseVisualStyleBackColor = true;
             this.btnLamMoi.Click += new System.EventHandler(this.btnLamMoi_Click);
             // 
@@ -90,7 +90,7 @@
             this.ddd.Name = "ddd";
             this.ddd.Size = new System.Drawing.Size(53, 13);
             this.ddd.TabIndex = 23;
-            this.ddd.Text = "Ngày tạo:";
+            this.ddd.Text = "Ngay tao:";
             // 
             // dgvLoaiSP
             // 
@@ -113,7 +113,7 @@
             this.groupBox1.Size = new System.Drawing.Size(265, 56);
             this.groupBox1.TabIndex = 21;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tác vụ";
+            this.groupBox1.Text = "Tac vu";
             // 
             // btnThem
             // 
@@ -121,7 +121,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 7;
-            this.btnThem.Text = "Thêm";
+            this.btnThem.Text = "Them";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
@@ -131,7 +131,7 @@
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 9;
-            this.btnXoa.Text = "Xóa";
+            this.btnXoa.Text = "Xoa";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
@@ -141,7 +141,7 @@
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 8;
-            this.btnSua.Text = "Sửa";
+            this.btnSua.Text = "Sua";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
@@ -167,7 +167,7 @@
             this.b.Name = "b";
             this.b.Size = new System.Drawing.Size(48, 13);
             this.b.TabIndex = 18;
-            this.b.Text = "Tên loại:";
+            this.b.Text = "ten loai:";
             // 
             // a
             // 
@@ -176,7 +176,7 @@
             this.a.Name = "a";
             this.a.Size = new System.Drawing.Size(44, 13);
             this.a.TabIndex = 17;
-            this.a.Text = "Mã loại:";
+            this.a.Text = "ma loai:";
             // 
             // label1
             // 
@@ -185,7 +185,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(80, 13);
             this.label1.TabIndex = 28;
-            this.label1.Text = "Nhóm linh kiện:";
+            this.label1.Text = "nhom linh kien:";
             // 
             // txtCapNhat
             // 
@@ -202,7 +202,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(80, 13);
             this.label3.TabIndex = 31;
-            this.label3.Text = "Ngày cập nhật:";
+            this.label3.Text = "ngay cap nhat:";
             // 
             // cboNhomLK
             // 
@@ -223,7 +223,7 @@
             this.groupBox3.Size = new System.Drawing.Size(573, 421);
             this.groupBox3.TabIndex = 34;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Danh sách loại linh kiện";
+            this.groupBox3.Text = "danh sach linh kien";
             // 
             // groupBox2
             // 
@@ -244,7 +244,7 @@
             this.groupBox2.Size = new System.Drawing.Size(356, 299);
             this.groupBox2.TabIndex = 35;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Thông tin loại linh kiện";
+            this.groupBox2.Text = "thong tin loại phu kien";
             // 
             // label4
             // 
