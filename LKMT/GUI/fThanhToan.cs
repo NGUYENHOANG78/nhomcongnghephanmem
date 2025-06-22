@@ -17,8 +17,8 @@ namespace LKMT.GUI
         {
             InitializeComponent();
             ThanhToanBUS.Instance.showThanhToan(dgvPhuongThuc);
-            dgvPhuongThuc.Columns[0].HeaderText = "Mã phương thức";
-            dgvPhuongThuc.Columns[1].HeaderText = "Tên phương thức";
+            dgvPhuongThuc.Columns[0].HeaderText = "Ma phuong thuc";
+            dgvPhuongThuc.Columns[1].HeaderText = "Ten phuong thuc";
             dgvPhuongThuc.Columns[0].Width = 60;
             dgvPhuongThuc.Columns[1].Width = 175;
         }
@@ -26,15 +26,15 @@ namespace LKMT.GUI
         private void btnThem_Click(object sender, EventArgs e)
         {
            if (txtName.TextLength == 0)
-                MessageBox.Show("Tên không được bỏ trống!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Ten khong duoc bo trong!!", "Thong Bao", MessageBoxButtons.OK);
             else
             {
                 if (ThanhToanBUS.Instance.themThanhToan(txtName.Text))
                 {
-                    MessageBox.Show("Thêm phương thức thanh toán thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Them phuong thuc thanh toan thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     ThanhToanBUS.Instance.showThanhToan(dgvPhuongThuc);
                 }
-                else MessageBox.Show("Thêm phương thức thanh toán sản phẩm thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Them phuong thuc thanh toan san pham that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
 
@@ -45,15 +45,15 @@ namespace LKMT.GUI
             {
                 if (ThanhToanBUS.Instance.suaThanhToan(int.Parse(txtID.Text),txtName.Text))
                 {
-                    MessageBox.Show("Cập nhật phương thức thanh toán thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Cap nhat phuong thuc thanh toan thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     ThanhToanBUS.Instance.showThanhToan(dgvPhuongThuc);
                     btnLamMoi_Click(sender, e);
                 }
-                else MessageBox.Show("Cập nhật phương thức thanh toán thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Cap nhat phuong thuc thanh toan that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else
             {
-                MessageBox.Show("Vui lòng chọn phương thức thanh toán muốn cập nhật!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Vui long chon phuong thuc thanh toan muon cap nhat!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
 
@@ -64,15 +64,15 @@ namespace LKMT.GUI
             {
                 if (ThanhToanBUS.Instance.xoaThanhToan(int.Parse(txtID.Text)))
                 {
-                    MessageBox.Show("Xóa phương thức thanh toán thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Xoa phuong thuc thanh toan thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     ThanhToanBUS.Instance.showThanhToan(dgvPhuongThuc);
                     btnLamMoi_Click(sender, e);
                 }
-                else MessageBox.Show("Xóa phương thức thanh toán thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Xoa phuong thuc thanh toan that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else
             {
-                MessageBox.Show("Vui lòng chọn phương thức thanh toán muốn xóa!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Vui long chon phuong thuc thanh toan muon xoa!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
 
