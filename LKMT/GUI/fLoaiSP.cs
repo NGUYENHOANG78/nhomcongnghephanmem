@@ -16,11 +16,11 @@ namespace LKMT.GUI
         {
             InitializeComponent();
             LoaiSanPhamBUS.Instance.showLoaiSP(dgvLoaiSP);
-            dgvLoaiSP.Columns[0].HeaderText = "Mã loại";
-            dgvLoaiSP.Columns[1].HeaderText = "Tên loại";
-            dgvLoaiSP.Columns[2].HeaderText = "Tên nhóm";
-            dgvLoaiSP.Columns[3].HeaderText = "Ngày tạo";
-            dgvLoaiSP.Columns[4].HeaderText = "Ngày cập nhật";
+            dgvLoaiSP.Columns[0].HeaderText = "Ma loai";
+            dgvLoaiSP.Columns[1].HeaderText = "Ten loai";
+            dgvLoaiSP.Columns[2].HeaderText = "Ten nhom";
+            dgvLoaiSP.Columns[3].HeaderText = "Ngay tao";
+            dgvLoaiSP.Columns[4].HeaderText = "Ngay cap nhat";
             dgvLoaiSP.Columns[0].Width = 50;
             dgvLoaiSP.Columns[1].Width = 170;
             dgvLoaiSP.Columns[2].Width = 100;
@@ -72,34 +72,34 @@ namespace LKMT.GUI
             {
                 if (LoaiSanPhamBUS.Instance.suaLoaiSP(txtMaLoai.Text, cboNhomLK, txtTenLoai.Text, DateTime.Parse(txtNgayTao.Text)))
                 {
-                    MessageBox.Show("Cập nhật thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Cap nhat thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     LoaiSanPhamBUS.Instance.showListLoaiSP(dgvLoaiSP, cboNhomLK);
                     btnLamMoi_Click(sender, e);
                 }
-                else MessageBox.Show("Cập nhật thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Cap nhat that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else
             {
-                MessageBox.Show("Vui lòng chọn loại linh kiện muốn cập nhật!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Vui long chon loai linh kien muon cap nhat!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
         private void btnThem_Click(object sender, EventArgs e)
         {
             if (txtMaLoai.TextLength > 5)
             {
-                MessageBox.Show("Mã không được vượt quá 5 ký tự!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Ma khong duoc vuot qua 5 ky tu!!", "Thong Bao", MessageBoxButtons.OK);
             }        
             else if (txtTenLoai.TextLength == 0)
-                MessageBox.Show("Tên không được bỏ trống!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Ten khong duoc bo trong!!", "Thong Bao", MessageBoxButtons.OK);
             else
             {
                 if (LoaiSanPhamBUS.Instance.themLoaiSP(cboNhomLK, txtTenLoai.Text))
                 {
-                    MessageBox.Show("Thêm loại linh kiện thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Them loai linh kien thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     LoaiSanPhamBUS.Instance.showListLoaiSP(dgvLoaiSP, cboNhomLK);
                     btnLamMoi_Click(sender, e);
                 }
-                else MessageBox.Show("Thêm loại linh kiện thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Them loai linh kien that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
         }
 
@@ -110,15 +110,15 @@ namespace LKMT.GUI
             {
                 if (LoaiSanPhamBUS.Instance.xoaLoaiSP(txtMaLoai.Text))
                 {
-                    MessageBox.Show("Xóa loại linh kiện thành công!!", "Thông Báo", MessageBoxButtons.OK);
+                    MessageBox.Show("Xoa loai linh kien thanh cong!!", "Thong Bao", MessageBoxButtons.OK);
                     LoaiSanPhamBUS.Instance.showListLoaiSP(dgvLoaiSP, cboNhomLK);
                     btnLamMoi_Click(sender, e);
                 }
-                else MessageBox.Show("Xóa loại linh kiện thất bại!!", "Thông Báo", MessageBoxButtons.OK);
+                else MessageBox.Show("Xoa loai linh kien that bai!!", "Thong Bao", MessageBoxButtons.OK);
             }
             else
             {
-                MessageBox.Show("Vui lòng chọn loại linh kiện muốn xóa!!", "Thông Báo", MessageBoxButtons.OK);
+                MessageBox.Show("Vui long chon loai linh kien muon xoa!!", "Thong Bao", MessageBoxButtons.OK);
             }          
         }
 
