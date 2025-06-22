@@ -317,7 +317,7 @@
             this.btnNhapKho.Name = "btnNhapKho";
             this.btnNhapKho.Size = new System.Drawing.Size(170, 39);
             this.btnNhapKho.TabIndex = 2;
-            this.btnNhapKho.Text = "Nhập kho";
+            this.btnNhapKho.Text = "nhap kho";
             this.btnNhapKho.UseVisualStyleBackColor = false;
             this.btnNhapKho.Click += new System.EventHandler(this.btnNhapKho_Click);
             // 
@@ -333,7 +333,7 @@
             this.btnQLKho.Name = "btnQLKho";
             this.btnQLKho.Size = new System.Drawing.Size(174, 52);
             this.btnQLKho.TabIndex = 1;
-            this.btnQLKho.Text = "Quản lý Kho";
+            this.btnQLKho.Text = "Quan ly kho";
             this.btnQLKho.UseVisualStyleBackColor = false;
             this.btnQLKho.Click += new System.EventHandler(this.btnQLKho_Click);
             // 
