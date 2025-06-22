@@ -10,7 +10,7 @@
         /// <summary> 
         /// Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <param name="disposing">true managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -81,7 +81,7 @@
             this.groupBox2.Size = new System.Drawing.Size(356, 299);
             this.groupBox2.TabIndex = 40;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Thông tin phiếu nhập";
+            this.groupBox2.Text = "Thong tin phieu nhap";
             // 
             // label1
             // 
@@ -90,7 +90,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(67, 13);
             this.label1.TabIndex = 45;
-            this.label1.Text = "Mã linh kiện:";
+            this.label1.Text = "Ma linh kien:";
             // 
             // cboMaLK
             // 
@@ -143,7 +143,7 @@
             this.aaa.Name = "aaa";
             this.aaa.Size = new System.Drawing.Size(71, 13);
             this.aaa.TabIndex = 48;
-            this.aaa.Text = "Tên linh kiện:";
+            this.aaa.Text = "Ten linh kien:";
             // 
             // nmrSoLuong
             // 
@@ -188,7 +188,7 @@
             this.a.Name = "a";
             this.a.Size = new System.Drawing.Size(81, 13);
             this.a.TabIndex = 17;
-            this.a.Text = "Mã phiếu nhập:";
+            this.a.Text = "Ma phieu nhap:";
             // 
             // txtNgayNhap
             // 
@@ -205,7 +205,7 @@
             this.btnSoLuong.Name = "btnSoLuong";
             this.btnSoLuong.Size = new System.Drawing.Size(52, 13);
             this.btnSoLuong.TabIndex = 18;
-            this.btnSoLuong.Text = "Số lượng:";
+            this.btnSoLuong.Text = "So luong:";
             // 
             // label3
             // 
@@ -214,7 +214,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(62, 13);
             this.label3.TabIndex = 31;
-            this.label3.Text = "Ngày nhập:";
+            this.label3.Text = "Ngay nhap:";
             // 
             // txtMaPhieuNhap
             // 
@@ -231,7 +231,7 @@
             this.ddd.Name = "ddd";
             this.ddd.Size = new System.Drawing.Size(53, 13);
             this.ddd.TabIndex = 23;
-            this.ddd.Text = "Giá nhập:";
+            this.ddd.Text = "Gia nhap:";
             // 
             // groupBox3
             // 
@@ -241,7 +241,7 @@
             this.groupBox3.Size = new System.Drawing.Size(573, 421);
             this.groupBox3.TabIndex = 39;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Danh sách phiếu nhập";
+            this.groupBox3.Text = "Danh sach phieu nhap";
             // 
             // dgvPhieuNhap
             // 
@@ -258,7 +258,7 @@
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.Size = new System.Drawing.Size(75, 23);
             this.btnLamMoi.TabIndex = 38;
-            this.btnLamMoi.Text = "Làm mới";
+            this.btnLamMoi.Text = "Lam moi";
             this.btnLamMoi.UseVisualStyleBackColor = true;
             // 
             // groupBox1
@@ -270,7 +270,7 @@
             this.groupBox1.Size = new System.Drawing.Size(99, 56);
             this.groupBox1.TabIndex = 37;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tác vụ";
+            this.groupBox1.Text = "Tac vu";
             // 
             // btnNhapKho
             // 
@@ -278,7 +278,7 @@
             this.btnNhapKho.Name = "btnNhapKho";
             this.btnNhapKho.Size = new System.Drawing.Size(75, 23);
             this.btnNhapKho.TabIndex = 7;
-            this.btnNhapKho.Text = "Nhập kho";
+            this.btnNhapKho.Text = "Nhap kho";
             this.btnNhapKho.UseVisualStyleBackColor = true;
             this.btnNhapKho.Click += new System.EventHandler(this.btnNhapKho_Click);
             // 
@@ -290,7 +290,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(172, 39);
             this.label2.TabIndex = 36;
-            this.label2.Text = "Nhập kho";
+            this.label2.Text = "Nhap kho";
             // 
             // fNhapKho
             // 
