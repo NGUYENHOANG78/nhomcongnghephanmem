@@ -57,7 +57,7 @@
             this.groupBox3.Size = new System.Drawing.Size(290, 264);
             this.groupBox3.TabIndex = 23;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Danh sách phương thức thanh toán";
+            this.groupBox3.Text = "Danh sach phuong thuc thanh toan";
             // 
             // dgvPhuongThuc
             // 
@@ -81,7 +81,7 @@
             this.groupBox2.Size = new System.Drawing.Size(335, 117);
             this.groupBox2.TabIndex = 22;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Thông tin phương thức";
+            this.groupBox2.Text = "Thong tin phuong thuc";
             // 
             // label1
             // 
@@ -112,7 +112,7 @@
             this.a.Name = "a";
             this.a.Size = new System.Drawing.Size(79, 13);
             this.a.TabIndex = 3;
-            this.a.Text = "Mã thanh toán:";
+            this.a.Text = "Ma thanh toan:";
             // 
             // b
             // 
@@ -121,7 +121,7 @@
             this.b.Name = "b";
             this.b.Size = new System.Drawing.Size(83, 13);
             this.b.TabIndex = 4;
-            this.b.Text = "Tên thanh toán:";
+            this.b.Text = "Ten thanh toan:";
             // 
             // txtID
             // 
@@ -144,7 +144,7 @@
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.Size = new System.Drawing.Size(75, 23);
             this.btnLamMoi.TabIndex = 21;
-            this.btnLamMoi.Text = "Làm mới";
+            this.btnLamMoi.Text = "Lam moi";
             this.btnLamMoi.UseVisualStyleBackColor = true;
             this.btnLamMoi.Click += new System.EventHandler(this.btnLamMoi_Click);
             // 
@@ -159,7 +159,7 @@
             this.groupBox1.Size = new System.Drawing.Size(265, 56);
             this.groupBox1.TabIndex = 20;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tác vụ";
+            this.groupBox1.Text = "Tac vu";
             // 
             // btnThem
             // 
@@ -167,7 +167,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 7;
-            this.btnThem.Text = "Thêm";
+            this.btnThem.Text = "Them";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
@@ -177,7 +177,7 @@
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 9;
-            this.btnXoa.Text = "Xóa";
+            this.btnXoa.Text = "Xoa";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
@@ -187,7 +187,7 @@
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 8;
-            this.btnSua.Text = "Sửa";
+            this.btnSua.Text = "Sua";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
@@ -199,7 +199,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(403, 39);
             this.label2.TabIndex = 19;
-            this.label2.Text = "Phương thức thanh toán";
+            this.label2.Text = "Phuong thuc thanh toan";
             // 
             // fThanhToan
             // 
@@ -225,6 +225,7 @@
         #endregion
 
         private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.DataGridView dgvPhuongThuc;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label4;
@@ -238,6 +239,5 @@
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.Button btnSua;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.DataGridView dgvPhuongThuc;
     }
 }
