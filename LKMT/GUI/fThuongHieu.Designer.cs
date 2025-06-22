@@ -61,7 +61,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(369, 39);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Thông tin thương hiệu";
+            this.label2.Text = "Thong tin thuong hieu";
             // 
             // btnLamMoi
             // 
@@ -69,7 +69,7 @@
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.Size = new System.Drawing.Size(75, 23);
             this.btnLamMoi.TabIndex = 27;
-            this.btnLamMoi.Text = "Làm mới";
+            this.btnLamMoi.Text = "Lam moi";
             this.btnLamMoi.UseVisualStyleBackColor = true;
             this.btnLamMoi.Click += new System.EventHandler(this.btnLamMoi_Click);
             // 
@@ -88,7 +88,7 @@
             this.aaa.Name = "aaa";
             this.aaa.Size = new System.Drawing.Size(98, 13);
             this.aaa.TabIndex = 25;
-            this.aaa.Text = "Cập nhật gần nhất:";
+            this.aaa.Text = "Cap nhat gan nhat:";
             // 
             // txtNgayTao
             // 
@@ -105,7 +105,7 @@
             this.ddd.Name = "ddd";
             this.ddd.Size = new System.Drawing.Size(53, 13);
             this.ddd.TabIndex = 23;
-            this.ddd.Text = "Ngày tạo:";
+            this.ddd.Text = "Ngay tao:";
             // 
             // groupBox1
             // 
@@ -118,7 +118,7 @@
             this.groupBox1.Size = new System.Drawing.Size(265, 56);
             this.groupBox1.TabIndex = 21;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tác vụ";
+            this.groupBox1.Text = "Tac vu";
             // 
             // btnThem
             // 
@@ -126,7 +126,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 7;
-            this.btnThem.Text = "Thêm";
+            this.btnThem.Text = "Them";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
@@ -136,7 +136,7 @@
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 9;
-            this.btnXoa.Text = "Xóa";
+            this.btnXoa.Text = "Xoa";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
@@ -146,7 +146,7 @@
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 8;
-            this.btnSua.Text = "Sửa";
+            this.btnSua.Text = "Sua";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
@@ -172,7 +172,7 @@
             this.b.Name = "b";
             this.b.Size = new System.Drawing.Size(88, 13);
             this.b.TabIndex = 18;
-            this.b.Text = "Tên thương hiệu:";
+            this.b.Text = "Ten thuong hieu:";
             // 
             // a
             // 
@@ -181,7 +181,7 @@
             this.a.Name = "a";
             this.a.Size = new System.Drawing.Size(84, 13);
             this.a.TabIndex = 17;
-            this.a.Text = "Mã thương hiệu:";
+            this.a.Text = "Ma thuong hieu:";
             // 
             // cboNhomLK
             // 
@@ -200,7 +200,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(80, 13);
             this.label1.TabIndex = 34;
-            this.label1.Text = "Nhóm linh kiện:";
+            this.label1.Text = "Nhom linh kien:";
             // 
             // dgvThuongHieu
             // 
@@ -219,7 +219,7 @@
             this.groupBox2.Size = new System.Drawing.Size(546, 424);
             this.groupBox2.TabIndex = 37;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Danh sách thương hiệu";
+            this.groupBox2.Text = "Danh sach thuong hieu";
             // 
             // groupBox3
             // 
@@ -238,7 +238,7 @@
             this.groupBox3.Size = new System.Drawing.Size(329, 258);
             this.groupBox3.TabIndex = 38;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Thông tin thương hiệu";
+            this.groupBox3.Text = "Thong tin thuong hieu";
             // 
             // fThuongHieu
             // 
