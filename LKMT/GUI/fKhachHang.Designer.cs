@@ -1,4 +1,5 @@
-﻿namespace LKMT.GUI
+﻿
+namespace LKMT.GUI
 {
     partial class fKhachHang
     {
@@ -90,7 +91,7 @@
             this.groupBox2.Size = new System.Drawing.Size(356, 332);
             this.groupBox2.TabIndex = 45;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Thông tin khách hàng";
+            this.groupBox2.Text = "Thong tin khach hang";
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // label11
@@ -100,7 +101,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(43, 13);
             this.label11.TabIndex = 44;
-            this.label11.Text = "Địa chỉ:";
+            this.label11.Text = "Dia chi:";
             // 
             // txtDiaChi
             // 
@@ -127,7 +128,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(73, 13);
             this.label9.TabIndex = 41;
-            this.label9.Text = "Số điện thoại:";
+            this.label9.Text = "So dien thoai:";
             // 
             // txtDienThoai
             // 
@@ -143,7 +144,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(55, 13);
             this.label7.TabIndex = 38;
-            this.label7.Text = "Mật khẩu:";
+            this.label7.Text = "Mat khau:";
             // 
             // txtMatKhau
             // 
@@ -186,7 +187,7 @@
             this.a.Name = "a";
             this.a.Size = new System.Drawing.Size(85, 13);
             this.a.TabIndex = 17;
-            this.a.Text = "Mã khách hàng:";
+            this.a.Text = "Ma khach hang:";
             // 
             // txtCapNhat
             // 
@@ -203,7 +204,7 @@
             this.b.Name = "b";
             this.b.Size = new System.Drawing.Size(89, 13);
             this.b.TabIndex = 18;
-            this.b.Text = "Tên khách hàng:";
+            this.b.Text = "Ten khach hang:";
             // 
             // label3
             // 
@@ -212,7 +213,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(80, 13);
             this.label3.TabIndex = 31;
-            this.label3.Text = "Ngày cập nhật:";
+            this.label3.Text = "Ngay cap nhat:";
             // 
             // txtMaKH
             // 
@@ -236,7 +237,7 @@
             this.ddd.Name = "ddd";
             this.ddd.Size = new System.Drawing.Size(53, 13);
             this.ddd.TabIndex = 23;
-            this.ddd.Text = "Ngày tạo:";
+            this.ddd.Text = "Ngay tao:";
             // 
             // txtNgayTao
             // 
@@ -254,7 +255,7 @@
             this.groupBox3.Size = new System.Drawing.Size(573, 342);
             this.groupBox3.TabIndex = 44;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Danh sách khách hàng";
+            this.groupBox3.Text = "Danh sach khach hang";
             // 
             // dgvKhachHang
             // 
@@ -271,7 +272,7 @@
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.Size = new System.Drawing.Size(75, 23);
             this.btnLamMoi.TabIndex = 43;
-            this.btnLamMoi.Text = "Làm mới";
+            this.btnLamMoi.Text = "Lam moi";
             this.btnLamMoi.UseVisualStyleBackColor = true;
             this.btnLamMoi.Click += new System.EventHandler(this.btnLamMoi_Click);
             // 
@@ -285,7 +286,7 @@
             this.groupBox1.Size = new System.Drawing.Size(178, 56);
             this.groupBox1.TabIndex = 42;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tác vụ";
+            this.groupBox1.Text = "Tac vu";
             // 
             // btnThem
             // 
@@ -293,7 +294,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 7;
-            this.btnThem.Text = "Thêm";
+            this.btnThem.Text = "Them";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
@@ -303,7 +304,7 @@
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 8;
-            this.btnSua.Text = "Sửa";
+            this.btnSua.Text = "Sua";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
@@ -315,7 +316,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(210, 39);
             this.label2.TabIndex = 41;
-            this.label2.Text = "Khách hàng";
+            this.label2.Text = "Khach hang";
             // 
             // groupBox4
             // 
@@ -327,7 +328,7 @@
             this.groupBox4.Size = new System.Drawing.Size(573, 73);
             this.groupBox4.TabIndex = 46;
             this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Tìm kiếm khách hàng";
+            this.groupBox4.Text = "Tim kiem khach hang";
             // 
             // btnTimKiem
             // 
@@ -335,7 +336,7 @@
             this.btnTimKiem.Name = "btnTimKiem";
             this.btnTimKiem.Size = new System.Drawing.Size(84, 22);
             this.btnTimKiem.TabIndex = 39;
-            this.btnTimKiem.Text = "Tìm kiếm";
+            this.btnTimKiem.Text = "Tim kiem";
             this.btnTimKiem.UseVisualStyleBackColor = true;
             this.btnTimKiem.Click += new System.EventHandler(this.btnTimKiem_Click);
             // 
@@ -346,7 +347,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(73, 13);
             this.label1.TabIndex = 37;
-            this.label1.Text = "Số điện thoại:";
+            this.label1.Text = "So dien thoai:";
             // 
             // txtSearchBox
             // 
