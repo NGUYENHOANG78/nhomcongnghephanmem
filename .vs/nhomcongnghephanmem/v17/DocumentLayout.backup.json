@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\nhomcongnghephanmem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DBContext.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\DBContext.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\KhachHangDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\KhachHangDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\DataProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DBContext.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAO\\DBContext.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,15 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\KhachHangDAO.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "DAO\\KhachHangDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:16:34.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DBContext.Context.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DBContext.Context.cs",
               "RelativeDocumentMoniker": "DAO\\DBContext.Context.cs",
               "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DBContext.Context.cs",
               "RelativeToolTip": "DAO\\DBContext.Context.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCIAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:10:50.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:10:50.973Z"
             },
             {
               "$type": "Document",
@@ -53,14 +69,14 @@
               "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
               "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DataProvider.cs",
               "RelativeToolTip": "DAO\\DataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T15:09:51.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "chitietdonhang.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\chitietdonhang.cs",
               "RelativeDocumentMoniker": "DAO\\chitietdonhang.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "DAO\\chitietdonhang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:09:48.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:09:48.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "giohang.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\giohang.cs",
               "RelativeDocumentMoniker": "DAO\\giohang.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "DAO\\giohang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:09:38.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:09:38.59Z"
             }
           ]
         }
