@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\XU LY\\LKMT\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\nhomcongnghephanmem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|d:\\xu ly\\lkmt\\dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|D:\\XU LY\\LKMT\\dao\\nhomsanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\nhomsanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|D:\\XU LY\\LKMT\\dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|D:\\XU LY\\LKMT\\dao\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|D:\\XU LY\\LKMT\\dao\\thuonghieudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\thuonghieudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|D:\\XU LY\\LKMT\\lkmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|solutionrelative:lkmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|D:\\XU LY\\LKMT\\lkmt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|solutionrelative:lkmt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|D:\\XU LY\\LKMT\\bus\\nhapkhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\nhapkhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|D:\\XU LY\\LKMT\\bus\\dangnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\dangnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|D:\\XU LY\\LKMT\\dao\\loaisanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\loaisanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|D:\\XU LY\\LKMT\\bus\\loaisanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\loaisanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|D:\\XU LY\\LKMT\\bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|D:\\XU LY\\LKMT\\lkmt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|c:\\users\\acer\\nhomcongnghephanmem\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|c:\\users\\acer\\nhomcongnghephanmem\\dao\\nhomsanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\nhomsanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\dao\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\dao\\thuonghieudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\thuonghieudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\lkmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|solutionrelative:lkmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\lkmt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|solutionrelative:lkmt\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\bus\\nhapkhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\nhapkhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\bus\\dangnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\dangnhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\dao\\loaisanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\loaisanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\bus\\loaisanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\loaisanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\lkmt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DCFCE6D5-A4BA-4ED4-9A3D-B55F877E6F72}|LKMT\\LKMT.csproj|solutionrelative:lkmt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|D:\\XU LY\\LKMT\\bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{48111450-00BA-46CE-AEA9-D552CB20ED82}|BUS\\BUS.csproj|solutionrelative:bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|D:\\XU LY\\LKMT\\dao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|C:\\Users\\ACER\\nhomcongnghephanmem\\dao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8DB92153-239B-4C4F-B7A4-A907140FFFE7}|DAO\\DAO.csproj|solutionrelative:dao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -70,40 +74,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KhachHangDAO.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\DAO\\KhachHangDAO.cs",
-              "RelativeDocumentMoniker": "DAO\\KhachHangDAO.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\DAO\\KhachHangDAO.cs",
-              "RelativeToolTip": "DAO\\KhachHangDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T02:45:02.436Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NhomSanPhamDAO.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\DAO\\NhomSanPhamDAO.cs",
-              "RelativeDocumentMoniker": "DAO\\NhomSanPhamDAO.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\DAO\\NhomSanPhamDAO.cs",
-              "RelativeToolTip": "DAO\\NhomSanPhamDAO.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "DAO\\DataProvider.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T12:21:09.373Z"
+              "WhenOpened": "2025-06-25T15:03:06.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\KhachHangDAO.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "DAO\\KhachHangDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:45:02.436Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "NhomSanPhamDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\NhomSanPhamDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\NhomSanPhamDAO.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\NhomSanPhamDAO.cs",
+              "RelativeToolTip": "DAO\\NhomSanPhamDAO.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:21:09.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SanPhamDAO.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\DAO\\SanPhamDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\SanPhamDAO.cs",
               "RelativeDocumentMoniker": "DAO\\SanPhamDAO.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\DAO\\SanPhamDAO.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\SanPhamDAO.cs",
               "RelativeToolTip": "DAO\\SanPhamDAO.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "packages.config",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\DAO\\packages.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\packages.config",
               "RelativeDocumentMoniker": "DAO\\packages.config",
-              "ToolTip": "D:\\XU LY\\LKMT\\DAO\\packages.config",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\packages.config",
               "RelativeToolTip": "DAO\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -123,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\LKMT\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\LKMT\\Program.cs",
               "RelativeDocumentMoniker": "LKMT\\Program.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\LKMT\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\LKMT\\Program.cs",
               "RelativeToolTip": "LKMT\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +156,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NhapKhoBUS.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\BUS\\NhapKhoBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\NhapKhoBUS.cs",
               "RelativeDocumentMoniker": "BUS\\NhapKhoBUS.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\BUS\\NhapKhoBUS.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\NhapKhoBUS.cs",
               "RelativeToolTip": "BUS\\NhapKhoBUS.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,11 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DangNhapBUS.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\BUS\\DangNhapBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\DangNhapBUS.cs",
               "RelativeDocumentMoniker": "BUS\\DangNhapBUS.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\BUS\\DangNhapBUS.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\DangNhapBUS.cs",
               "RelativeToolTip": "BUS\\DangNhapBUS.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LoaiSanPhamDAO.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\DAO\\LoaiSanPhamDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\LoaiSanPhamDAO.cs",
               "RelativeDocumentMoniker": "DAO\\LoaiSanPhamDAO.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\DAO\\LoaiSanPhamDAO.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\LoaiSanPhamDAO.cs",
               "RelativeToolTip": "DAO\\LoaiSanPhamDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,23 +192,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "KhachHangBUS.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\BUS\\KhachHangBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\KhachHangBUS.cs",
               "RelativeDocumentMoniker": "BUS\\KhachHangBUS.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\BUS\\KhachHangBUS.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\KhachHangBUS.cs",
               "RelativeToolTip": "BUS\\KhachHangBUS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAuwNoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T12:10:14.551Z"
+              "WhenOpened": "2025-06-09T12:10:14.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "App.Config",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\BUS\\App.Config",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\App.Config",
               "RelativeDocumentMoniker": "BUS\\App.Config",
-              "ToolTip": "D:\\XU LY\\LKMT\\BUS\\App.Config",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\App.Config",
               "RelativeToolTip": "BUS\\App.Config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -195,11 +217,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ThuongHieuDAO.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\DAO\\ThuongHieuDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\ThuongHieuDAO.cs",
               "RelativeDocumentMoniker": "DAO\\ThuongHieuDAO.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\DAO\\ThuongHieuDAO.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\ThuongHieuDAO.cs",
               "RelativeToolTip": "DAO\\ThuongHieuDAO.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "LoaiSanPhamBUS.cs",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\BUS\\LoaiSanPhamBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\LoaiSanPhamBUS.cs",
               "RelativeDocumentMoniker": "BUS\\LoaiSanPhamBUS.cs",
-              "ToolTip": "D:\\XU LY\\LKMT\\BUS\\LoaiSanPhamBUS.cs",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\BUS\\LoaiSanPhamBUS.cs",
               "RelativeToolTip": "BUS\\LoaiSanPhamBUS.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "packages.config",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\LKMT\\packages.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\LKMT\\packages.config",
               "RelativeDocumentMoniker": "LKMT\\packages.config",
-              "ToolTip": "D:\\XU LY\\LKMT\\LKMT\\packages.config",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\LKMT\\packages.config",
               "RelativeToolTip": "LKMT\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -231,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "App.Config",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\DAO\\App.Config",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\App.Config",
               "RelativeDocumentMoniker": "DAO\\App.Config",
-              "ToolTip": "D:\\XU LY\\LKMT\\DAO\\App.Config",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\DAO\\App.Config",
               "RelativeToolTip": "DAO\\App.Config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -243,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\XU LY\\LKMT\\LKMT\\App.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\nhomcongnghephanmem\\LKMT\\App.config",
               "RelativeDocumentMoniker": "LKMT\\App.config",
-              "ToolTip": "D:\\XU LY\\LKMT\\LKMT\\App.config",
+              "ToolTip": "C:\\Users\\ACER\\nhomcongnghephanmem\\LKMT\\App.config",
               "RelativeToolTip": "LKMT\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
