@@ -25,20 +25,5 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DAO
-{
-    using System;
-    using System.Collections.Generic;
 
-    public partial class phieuxuat
-    {
-        public int id_phieuxuat { get; set; }
-        public string id_sanpham { get; set; }
-        public int soluong { get; set; }
-        public Nullable<System.DateTime> ngayxuat { get; set; }
-        public string id_donhang { get; set; }
-
-        public virtual sanpham sanpham { get; set; }
-    }
-}
 /**/
