@@ -3,10 +3,9 @@ insert into admin (email,matkhau,ten,sodienthoai) values ('thien','123','Phạm 
 insert into admin (email,matkhau,ten,sodienthoai) values ('hoang','123','Phạm Lê Nguyễn Hoàng','0356783513')
 insert into admin (email,matkhau,ten,sodienthoai) values ('hoang','1234','Phạm Lê Nguyễn Hoàng','0356783513')
 
-insert into nhomsanpham values ('RAM','Ram - Bộ nhớ trong')
-insert into nhomsanpham values ('CPU','Cpu - Bộ vi xử lí')
-insert into nhomsanpham values ('MAIN','Mainboard - Bo mạch chủ')
-insert into nhomsanpham values ('SSD','SSD - Ổ cứng thể rắn')
-insert into nhomsanpham values ('HDD','HDD - Ổ cứng PC')
-
-insert into loaisanpham values ('HDD','HDD - Ổ cứng PC')
+insert into nhomsanpham values ('Bửng xe','Bửng xe')
+insert into nhomsanpham values ('Dè xe','Dè xe')
+insert into nhomsanpham values ('Đầu xe','Đầu xe')
+insert into nhomsanpham values ('Đuôi xe','Đuôi xe')
+insert into nhomsanpham values ('Mặt nạ xe','Mặt nạ xe')
+insert into loaisanpham values ('Đèn xe','Đèn xe')
