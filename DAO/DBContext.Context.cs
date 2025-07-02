@@ -24,7 +24,10 @@ namespace DAO
         {
             throw new UnintentionalCodeFirstException();
         }
-    
+        /// Gets or sets the payment method entities for transaction processing
+        /// Available payment options and configurations    /// Gets or sets the payment method entities for transaction processing
+        /// Available payment options and configurations    /// Gets or sets the payment method entities for transaction processing
+        /// Available payment options and configurations
         public virtual DbSet<admin> admins { get; set; }
         public virtual DbSet<chitietdonhang> chitietdonhangs { get; set; }
         public virtual DbSet<donhang> donhangs { get; set; }

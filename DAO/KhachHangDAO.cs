@@ -15,7 +15,10 @@ namespace DAO
             {
                 if (instance == null)
                     instance = new KhachHangDAO();
-                return instance;
+                return instance;        /// </summary>
+                                        /// </summary>
+                                        /// </summary>
+
             }
         }
         public List<khachhang> GetKhachhangs()
