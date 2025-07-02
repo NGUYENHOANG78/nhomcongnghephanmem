@@ -7,3 +7,32 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+namespace DAO
+{
+    using System;
+    using System.Collections.Generic;
+    
+    public partial class donhang
+    {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public donhang()
+        {
+            this.chitietdonhangs = new HashSet<chitietdonhang>();
+            this.phieugiaohangs = new HashSet<phieugiaohang>();
+        }
+    
+        public string id_donhang { get; set; }
+        public int id_khachhang { get; set; }
+        public System.DateTime ngaydathang { get; set; }
+        public int id_thanhtoan { get; set; }
+        public string tinhtrang { get; set; }
+        public string ghichu { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<chitietdonhang> chitietdonhangs { get; set; }
+        public virtual khachhang khachhang { get; set; }
+        public virtual phuongthucthanhtoan phuongthucthanhtoan { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<phieugiaohang> phieugiaohangs { get; set; }
+    }
+}
